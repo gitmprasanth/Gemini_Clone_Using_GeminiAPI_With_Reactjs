@@ -13,4 +13,5 @@ A ReactJS-based chatbot application powered by the **Google Gemini API**.
 ### Responsive UI
 ![Lap view](public/s1.png)
 
+### Mobile View
 ![mobile view](public/s2.jpg)
