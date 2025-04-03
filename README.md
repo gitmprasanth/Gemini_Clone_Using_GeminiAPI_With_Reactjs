@@ -1,12 +1,16 @@
-# React + Vite
+# Gemini Clone 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A ReactJS-based chatbot application powered by the **Google Gemini API**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Conversational AI using Gemini API
+- Simulated typing effect for responses
+- Responsive UI with Tailwind CSS
+- API key authentication for secure requests
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## screenshots
 
-## Expanding the ESLint configuration
+### Responsive UI
+![Lap view](public/s1.png)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![mobile view](public/s2.jpg)
