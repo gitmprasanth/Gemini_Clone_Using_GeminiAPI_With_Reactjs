@@ -1,16 +1,14 @@
-import { useState } from 'react'
-import Sidebar from './Components/Sidebar.jsx'
-import Main from './Components/Main.jsx'
+import React from "react"
+import Sidebar from "./Components/Sidebar"
+import MainContent from "./Components/MainContent"
 
-function App() {
-
+const App = () => {
   return (
     <>
-    <div className='flex'>
-     <Sidebar/>
-      <Main/>
-
-    </div>
+      <div className="flex animate-fadeIn duration-1000">
+        <Sidebar/>
+        <MainContent/>
+      </div>
     </>
   )
 }
