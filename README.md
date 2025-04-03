@@ -6,7 +6,7 @@ A ReactJS-based chatbot application powered by the **Google Gemini API**.
 - Conversational AI using Gemini API
 - Simulated typing effect for responses
 - Responsive UI with Tailwind CSS
-- API key authentication for secure requests
+- State management with react hooks 
 
 ## screenshots
 
