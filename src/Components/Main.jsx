@@ -36,15 +36,15 @@ const Main = () => {
                           <FaMessage className='text-3xl p-1 absolute bottom-2 right-2 text-gray-700' />
 
                   </div>
-                  <div className='h-[200px] p-4 bg-gray-200 rounded-lg relative cursor-pointer hover:bg-gray-300'>
+                  <div className='h-[200px] p-4 bg-gray-200 rounded-lg relative cursor-pointer hover:bg-gray-300 mb-7'>
                           <p className='text-slate-700 text-lg'>Who win the 2025 champions trophy in cricket?</p>
                           <FaCode  className='text-3xl p-1 absolute bottom-2 right-2 text-gray-700' />
 
                   </div>
            </div>
-           <div className='absolute bottom-0 w-full max-w-[900px] px-5 mx-auto mt-5'>
+           <div className='absolute bottom-0 w-full max-w-[900px] px-5 mx-auto '>
              <div className='flex items-center justify-between gap-20 bg-gray-200 py-2 px-5 rounded-full'>
-               <input type="text" placeholder='Enter Prompt here...'  className='flex-1 bg-transparent border-none outline-none p-2 text-lg'/>
+               <input type="text" placeholder='Enter Prompt here...'  className='flex-1 bg-transparent border-none outline-none p-2 text-lg '/>
                <div className='flex gap-4 items-center'>
                <MdAddPhotoAlternate className='text-2xl cursor-pointer'/>
                <FaMicrophone className='text-2xl cursor-pointer'/>
